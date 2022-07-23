@@ -1,4 +1,4 @@
-# VSCode-In-Folder-Launcher
+# VSCode-Folder-Launcher
 
 A Application that helps you to open vs code in any folder.
 
