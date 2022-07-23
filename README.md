@@ -7,7 +7,7 @@ A Application that helps you to open vs code in any folder.
 - Just download.
 - Extract the files.
 - Run `VSCode-Folder-Launcher.exe`
-- Enter the directory in chich you want to open VS Code.
+- Enter the directory in which you want to open VS Code.
 - It'll be open in vs code.
 
 ### Facing Issues? or Found any bug?
