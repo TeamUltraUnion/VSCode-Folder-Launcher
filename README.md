@@ -11,4 +11,4 @@ A Application that helps you to open vs code in any folder.
 - It'll be open in vs code.
 
 ### Facing Issues? or Found any bug?
-Ping me at [Instagram](https://wwww.instagram.com/itzzzyashu).
+Ping me at [Instagram](https://www.instagram.com/itzzzyashu).
